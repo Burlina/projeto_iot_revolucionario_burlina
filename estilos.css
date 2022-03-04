@@ -1,0 +1,13 @@
+h1, p, i {
+    color: lightgreen;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo{
+    color:red;
+}
+
+#paragrafo{
+    color:aquamarine
+}
